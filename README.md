@@ -1,6 +1,6 @@
-# Python Projects for Beginners
+# Python for Beginners
 
- This project is made to help me practice and improve my  problem-solving skills through some fun and practical projects. 
+ This projects are made to help me practice and improve my  problem-solving skills through some fun and practical projects. 
 
 
 
