@@ -10,8 +10,7 @@ The program give hints if the guess is high or low. Allow the user to specify th
 This gives the player more control over the difficulty level. And the program have a feature that limits the number of guesses a player can make. 
 If the player runs out of attempts, the game end, and the correct number will be revealed.
 
-(https://github.com/user-attachments/assets/2f63c3c7-de62-4f16-bcdc-57843d4bbb64)
-
+![Game Screenshot](https://github.com/user-attachments/assets/2f63c3c7-de62-4f16-bcdc-57843d4bbb64)
 ## Practice of:
 
  - If-else condition
