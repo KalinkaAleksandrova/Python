@@ -11,7 +11,7 @@ If the player runs out of attempts, the game end, and the correct number will be
 
 
 
-!\[Guessing\_game\_img](https://github.com/user-attachments/assets/0937e20b-2ee9-4e4c-9cf5-5e34b8ce7243)
+<img width="831" height="446" alt="image" src="https://github.com/user-attachments/assets/c61318d6-b3c2-4e87-bfa8-3a1149f7c879" />
 
 
 
@@ -22,10 +22,4 @@ If the player runs out of attempts, the game end, and the correct number will be
 * Using random library
 
 
-
-
-
-## Difficulty
-
-3/10
 
